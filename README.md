@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitaliyLobko&show_icons=true&theme=dracula&locale=en&layout=compact" alt="VitaliyLobko" height="160" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=VitaliyLobko&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="VitaliyLobko" height="160"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=VitaliyLobko&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="VitaliyLobko" height="160"/></p>
