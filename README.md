@@ -1,4 +1,4 @@
-<img src="header.jpeg" alt="Vitaliy Lobko">
+<img src="header.png" alt="Vitaliy Lobko">
 
 <h2 align="left">Python developer from Ukraine, Odessa</h2>
 
