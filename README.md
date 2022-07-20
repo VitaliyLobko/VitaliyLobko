@@ -2,7 +2,6 @@
 
 <h2 align="left">Python developer from Ukraine, Odessa</h2>
 
-----------------
 
 
 
