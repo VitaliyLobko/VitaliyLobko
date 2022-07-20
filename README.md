@@ -1,6 +1,6 @@
 <img  src="header.jpeg" alt="Vitaliy Lobko">
 
-<h3 align="center">Python developer from Ukraine, Odessa</h3>
+<h3 align="left">Python developer from Ukraine, Odessa</h3>
 
 
 <h3 align="left">Connect with me:</h3>
