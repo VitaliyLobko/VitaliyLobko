@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="/style.css"/>
+
 <img src="header.png" alt="Vitaliy Lobko">
 
 <h2 align="left">Python developer from Ukraine, Odessa</h2>
