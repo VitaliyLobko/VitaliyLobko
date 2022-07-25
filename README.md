@@ -2,10 +2,16 @@
 <div>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
 </div>
 </div>
-  
+
+</br>
+
 <h2 align="left">Python developer from Ukraine, Odessa </h2>
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/VitaliyLobko" target="blank"><img align="center" src="https://github.com/fluidicon.png" alt="VitaliyLobko" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/vitaliy-lobko-3541a74a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VitaliyLobko" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Learning Languages and Tools:</h3>
