@@ -13,8 +13,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <p align="left">
 <a href="https://github.com/VitaliyLobko" target="blank"><img align="center" src="https://github.com/fluidicon.png" alt="VitaliyLobko" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/vitaliy-lobko-3541a74a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VitaliyLobko" height="30" width="40" /></a>
-<a href="https://t.me/MrLakin" target="blank"><img align="center" src="   
-" alt="telegram" height="30" width="40" /></a>
+<a href="https://t.me/MrLakin" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg" alt="telegram" height="30" width="40" /></a>
 
 </p>
 
