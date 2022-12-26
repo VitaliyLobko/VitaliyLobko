@@ -1,6 +1,16 @@
 <img src="header.png" align="left" width="160px"/>
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1600s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+Looking for position: junior python developer.
+Experience as a 1C ERP developer - the last 11 years.
+
+As 1c developer working with:
+
+* Data exchanges - Microsoft Dynamics NAV (ADODB / MS SQL)
+Rest API service for shopping cart calculation (marketing promotions, prices) for website
+https://promenu.ua
+* SOAP services for creating client cards, discount cards, bonus points for website
+https://promenu.ua
+* Data exchanges (rests of goods, customer purchases, client cards, discounts cards, etc...) to different services and software (JSON, XML, MS SQL, REST API )
 
 <br clear="left"/>   
 
