@@ -1,16 +1,22 @@
 <img src="header.png" align="left" width="160px"/>
 
-Looking for position: junior python developer.
+**Looking for position: junior python developer.**
+<br />
 Experience as a 1C ERP developer - the last 11 years.
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 As 1c developer working with:
 
-* Data exchanges - Microsoft Dynamics NAV (ADODB / MS SQL)
-Rest API service for shopping cart calculation (marketing promotions, prices) for website
+* Data exchanges - **Microsoft Dynamics NAV (ADODB / MS SQL)**
+**Rest API** service for shopping cart calculation (marketing promotions, prices) for website
 https://promenu.ua
-* SOAP services for creating client cards, discount cards, bonus points for website
+* **SOAP services** for creating client cards, discount cards, bonus points for website
 https://promenu.ua
-* Data exchanges (rests of goods, customer purchases, client cards, discounts cards, etc...) to different services and software (JSON, XML, MS SQL, REST API )
+* Data exchanges (rests of goods, customer purchases, client cards, discounts cards, etc...) to different services and software **(JSON, XML, MS SQL, REST API )**
 
 <br clear="left"/>   
 
