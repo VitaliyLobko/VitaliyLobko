@@ -2,7 +2,7 @@
 
 **Looking for position: junior python developer.**
 <br />
-Experience as a 1C ERP developer - the last 11 years.
+Experience as a 1C ERP developer - the last 12 years.
 <br />
 <br />
 <br />
